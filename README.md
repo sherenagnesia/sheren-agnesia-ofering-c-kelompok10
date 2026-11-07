@@ -9,7 +9,7 @@ Proyek akhir mata kuliah **PPLG (Tugas Akhir)**, **Kelompok 10**. Dibuat dengan 
 | Dosen | Harits Ar Rosyid, S.T., M.T., Ph.D. |
 | Asisten dosen | Arrayyan Daffa Assauqy (NIM 240535606260), Albi Adwitiya Chandra (NIM 240535601034) |
 
-Link game (webhost lab): [isi URL]
+Link game (webhost lab): [https://gd.games/games/3f6c2b7e-9a41-4d5e-8c1b-52e0a7d9c314]
 Papan Trello: [https://trello.com/b/iNWvSfln/offering-ckelompok-10]
 
 
