@@ -10,18 +10,8 @@ Proyek akhir mata kuliah **PPLG (Tugas Akhir)**, **Kelompok 10**. Dibuat dengan 
 | Asisten dosen | Arrayyan Daffa Assauqy (NIM 240535606260), Albi Adwitiya Chandra (NIM 240535601034) |
 
 Link game (webhost lab): [isi URL]
-Papan Trello: [isi URL]
+Papan Trello: [https://trello.com/b/iNWvSfln/offering-ckelompok-10]
 
-## Isi repo
-
-| Folder | Isi |
-|---|---|
-| `game/` | Project GDevelop final (`game.json`) dan semua aset (`assets/`). Buka `game/game.json` di GDevelop 5. |
-| `build-web/` | Hasil ekspor HTML5 yang diunggah ke webhost lab (isi setelah ekspor). |
-| `docs/` | GDD final (unduh dari dokumen sebagai PDF dan simpan di sini sebagai `GDD_FlipFlop_Circuit_Quest.pdf`), catatan lisensi aset. |
-| `testing/` | Instrumen uji dan hasil uji: Functional Test (developer) dan Alpha Test (player). |
-| `poster/` | Poster digital A4 (PDF dan PNG). |
-| `project-management/` | Template laporan progres mingguan dan daftar kartu Trello. |
 
 ## Cara menjalankan
 
